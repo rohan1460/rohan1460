@@ -23,9 +23,7 @@
 <a href="mailto:hs6798479@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/rohan1460">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 <img src="https://komarev.com/ghpvc/?username=rohan1460&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
